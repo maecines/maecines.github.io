@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.logo_navbar {
+    height: 60px;
+}
+
+.parrafo1 {
+    color: #28A745;
+    font-size: 20pt;
+}
+
+.ph-3 {
+    font-weight: 300;
+    color: #707070;
+    font-size: 16pt;
+}
+
+.parrafo2 {
+    font-weight: 300;
+    color: #707070;
+    font-size: 19pt;
+}
+
+.texto1 {
+    font-weight: lighter;
+    color: #707070;
+    font-size: 13pt;
+}
+
+.card-title {
+    font-weight: 300;
+    font-size: 20pt;
+}
+
+.formulario {
+    background-color: #28A745;
+}
+
+.colores {
+    color: white;
+}
+
+.imagen_footer {
+    width: 300px;
+}
+
+.credit-footer {
+    color: #707070;
+    font-weight: 300;
+}
+
+.form-control {
+    font-weight: 300;
+    color: #707070;
+}
